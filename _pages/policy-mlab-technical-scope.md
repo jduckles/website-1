@@ -13,7 +13,7 @@ This working document outlines the general motivations, organization, and techni
 
 **Document history**
 
-* Version 3.0 2026-05-3] (this document, operating at Superbloom) 
+* Version 3.0 2026-05-03 (this document, operating at Superbloom) 
 * Version 2.0 2019-07-01 (Operating at CS&S)
 * [Version 1.0 2009-01-28]({{ site.baseurl }}/publications/mlab-founding-vision.pdf) (archived)
 
