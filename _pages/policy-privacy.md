@@ -15,7 +15,7 @@ breadcrumb: "about"
   * [[v1] July 12, 2018](https://www.measurementlab.net/privacy-v1/)
   * [[v2] July 1, 2019](https://www.measurementlab.net/privacy-v2)
   * [[v3] July 14, 2020](https://www.measurementlab.net/privacy-v3/)
-  * [[v4] February 7, 2026](https://www.measurementlab.net/privacy-v4)
+  * [[v4] February 17, 2026](https://www.measurementlab.net/privacy-v4)
 
 ## Measurement Lab Data Collection Overview
 
